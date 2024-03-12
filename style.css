@@ -26,7 +26,7 @@
   .header {
     position: sticky;
     top: 0px;
-    background:#271849;
+    background:#491842;
     background-image:url(images/images/bg.jpg);
     background-position: center center;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@
  }
 
  .header-txt span {
-    color: #8863dd;
+    color: #491842;
  }
 
  .header-txt p {
@@ -121,7 +121,7 @@
  .btn-1, .btn-2, .btn-3 {
     display: inline-block;
     padding: 11px 35px;
-    border: 2px solid #8863dd;
+    border: 2px solid #491842;
     border-radius: 25px;
     margin-right: 25px;
     font-size: 17px;
@@ -129,7 +129,7 @@
  }
 
  .btn-1:hover {
-    background-color:#8863dd;
+    background-color:#491842;
  }
 
  .popular {
@@ -185,12 +185,12 @@
 
 .price p {
     font-size: 17px;
-    color: #8863dd;
+    color: #491842;
 }
 
 .btn-2 {
     padding: 5px 25px;
-    background-color: #8863dd;
+    background-color: #491842;
     margin-right: 0;
 }
 
@@ -245,7 +245,7 @@ input {
 }
 
 .link ul li > a:hover {
-    color: #8863dd;
+    color: #2e1b5a;
 }
 
 @media(max-width:991px) {
@@ -387,7 +387,7 @@ input {
     line-height: 45px;
     color: #fff;
     margin-right: 10px;
-    background-color:#302055;
+    background-color:#491842;
     text-align: center;
     transition: all 300ms ease;
   
@@ -397,7 +397,7 @@ input {
   }
   
   .grup02 {
-    background-color:#271849;
+    background-color:#491842;
     padding: 15px 10px;
     text-align: center;
     color: #fff;
